@@ -1,4 +1,5 @@
 //New comments for the second merge
+//New comments from master
 Some description
 Some description
 Some description
