@@ -1,3 +1,4 @@
+//New comments for the second merge
 Some description
 Some description
 Some description
