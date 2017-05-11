@@ -13,3 +13,4 @@ Some description
 
 //New comments for merge
 //Добавила коммент для rebase
+//Добавила коммент для fetch
