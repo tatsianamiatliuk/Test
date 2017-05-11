@@ -12,4 +12,3 @@ Some description
 Some description
 
 //New comments for merge
-//New comments for fetch
